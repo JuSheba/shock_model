@@ -1,0 +1,21 @@
+{
+    "orbit": {
+        "period": 1237,
+        "e": 0.87,
+        "a": 7.17,
+        "b": 3.53,
+        "eps": 0.1,
+        "inclination": 20,
+        "longitude": -40,
+        "arg_periapsis": 138.7  
+    },
+    "shock":{
+        "init_mass_rate_first": 1.0,
+        "init_mass_rate_second": 1.0,
+        "velocity_first": 1.0,
+        "velocity_second": 1.0,
+        "theta_start": 0.0001,
+        "theta_end": 0.75
+    }
+
+}
