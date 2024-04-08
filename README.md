@@ -10,8 +10,13 @@
 ### To use this module please run the following commands:
 
 `pip install --upgrade pip`
+
 `pip install numpy`
+
 `pip install pandas`
+
 `pip install matplotlib`
+
 `pip install pandas`
+
 `pip install argparse`
